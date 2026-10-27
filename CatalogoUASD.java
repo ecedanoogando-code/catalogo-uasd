@@ -24,6 +24,18 @@ import javax.crypto.spec.PBEKeySpec;
 
 /**
  * Catálogo de carreras de la UASD - Grupo Mentes Digitales
+ *
+ * PÁGINA PUBLICADA (abre en cualquier teléfono o PC):
+ *     https://catalogo-uasd.onrender.com
+ *   (Hosting: Render · Base de datos en la nube: Neon PostgreSQL)
+ *   Si no ha tenido visitas en ~15 min, tarda cerca de 1 minuto en abrir.
+ *
+ * Integrantes:
+ *   Alinson Fernando Ramírez Navarro - 100570096
+ *   Edwin Cedano Ogando              - 100782998
+ *   Jesus Santos                     - 100588729
+ *   Gregorio Martes Abreu            - 100333136
+ *
  * - Base de datos:
  *     * En tu PC: SQLite (archivo uasd.db que se crea solo)
  *     * En la nube: PostgreSQL (si existe la variable de entorno DATABASE_URL)
