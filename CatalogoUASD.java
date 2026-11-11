@@ -742,7 +742,7 @@ public class CatalogoUASD {
 </header>
 
 <main>
-  <h2>Facultad</h2>
+  <h2>Facultades</h2>
   <div class="botones" id="botones"></div>
 
   <div class="tarjeta">
